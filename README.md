@@ -1,6 +1,6 @@
-- 👋 Hi, I’m @RasmusOtharKirketerp
+- 👋 Hi, I’m the Rex King
 - 👀 I’m interested in coding in c++, PASCAL, pl/1, COBOL, Java and phython
-- 🌱 I’m currently learning how to attist Ukraine hacking Russia
+- 🌱 I’m currently learning how to assist Ukraine hacking Russia
 - 💞️ I’m looking to collaborate on ...
 - 📫 How to reach me ...
 
