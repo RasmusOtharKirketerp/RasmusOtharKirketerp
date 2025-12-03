@@ -1,4 +1,4 @@
-# 👋 Hi, I’m The Rex King
+# 👋 Hi, I’m The CodeWizard
 
 Welcome to my GitHub profile! Here’s a bit about me:
 
