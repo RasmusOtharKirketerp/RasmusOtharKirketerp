@@ -1,49 +1,75 @@
-# 👋 Hi, I’m The CodeWizard
+# Rasmus Othar Kirketerp
 
-Welcome to my GitHub profile! Here’s a bit about me:
+Danish developer (born 1975) building practical, end-to-end systems with full-stack ownership.
 
-## 👀 Interests
+## Core Identity
 
-I have a diverse coding background and enjoy working with various programming languages, including:
+- System-builder mindset
+- Focus on working solutions over theory
+- Lightweight, cost-efficient architecture
+- End-to-end delivery: frontend + backend + infra
+- Values clarity, speed, and ownership
 
-- **C++**
-- **PASCAL**
-- **PL/1**
-- **COBOL**
-- **Java**
-- **Python**
+## Primary Tech Stack
 
-I thrive on tackling complex projects and exploring innovative solutions.
+- Languages: Python (primary), JavaScript, HTML/CSS, COBOL, C++, Pascal, Java
+- Backend: Flask, SQLite, REST APIs, MQTT, Home Assistant integrations
+- Infra/DevOps: Docker, Google Cloud Run, AWS (EC2/Lightsail/Route53/Terraform experiments), GitHub Pages
+- Environment: Windows 11, VirtualBox (Home Assistant VM), DuckDNS, networking/port forwarding
+- AI/ML: PyTorch (GPU), DQN, local LLM workflows (llama-server/Ollama), RSS AI summarization and scoring
 
-## 🌱 Current Endeavors
+## Hardware + IoT
 
-I'm currently engaged in several projects:
+- RTX 3070 Ti (CUDA 12.x)
+- Zigbee2MQTT + Sonoff Zigbee dongle
+- IoT sensors (energy, temperature, VOC)
+- Solar panel + battery metrics
+- Garmin watch integration experiments
 
-- **Quadratum**: An AI-driven game developed in Java. [View Repository](https://github.com/RasmusOtharKirketerp/quadratum)
-- **Game of Life**: A Java implementation of Conway's Game of Life. [View Repository](https://github.com/RasmusOtharKirketerp/GOL)
-- **FlowAnalyzer**: A Java-based tool for analyzing flow data.
-- **MultiEclipse Version 4.0**: A Java project aimed at enhancing development workflows.
-- **Xolta Public**: A Python project that provides an overview of solar power, grid consumption, and battery status through color-coded plots. [View Repository](https://github.com/RasmusOtharKirketerp/xolta_public)
+## Major Projects
 
-I'm also delving into:
+1. AI NewsReader (`othar.dk`)
+   AI-powered RSS aggregation, translation, opinion-vs-fact separation, prioritization logic, optimized for speed and low cloud cost.
+2. Kenobi (Dog Walk Tracker)
+   Home Assistant + MQTT + `input_datetime`, shareable web app (`othar.dk/kenobi`), intentionally minimal data model.
+3. iPad Kitchen Dashboard
+   Lightweight, performance-aware dashboard optimized for older iPad hardware.
+4. DQN Car Simulation
+   Deep Q-learning with replay memory, trajectory optimization, GPU training, later ported to Java for speed experiments.
+5. Global Meta-DB Concept
+   JSON-based lightweight shared data layer across micro apps with expiry metadata.
 
-- **Neural Networks and Deep Learning**: Training models to navigate car tracks autonomously.
-- **Information Evaluation Systems**: Developing tools to filter and summarize news articles effectively.
-- **Home Assistant Integrations**: Creating innovative IoT projects to enhance smart home capabilities.
-- **API Integration and Data Visualization**: Building tools to access and present data from various sources.
+## Systems I Run
 
-## 💞️ Collaboration Goals
+- Home Assistant (VM)
+- Zigbee2MQTT
+- MQTT broker
+- Dockerized services
+- Energy data ingestion pipelines
+- Nilan gateway experiments
+- Eufy security integrations
+- Custom health-check endpoints
 
-I'm eager to collaborate on projects involving:
+## Development Style
 
-- **XOLTA API**: Accessing and presenting data from the public XOLTA API.
-- **Automation Tools**: Developing solutions for efficient information consumption.
-- **Legacy Programming Languages**: Creative problem-solving using languages like COBOL and PL/1.
+- Log-driven debugging
+- Reproducible, copy/paste-ready workflows
+- Speed + simplicity first
+- Deliberate daemon/web separation
+- Cost-aware cloud decisions
+- Iterative building with practical AI integration
+- Local models when possible (reduced SaaS dependency)
 
-## 🎮 Fun Fact
+## Public Presence
 
-I have a passion for puzzles and logic games. I once solved a Rubik's cube in **2 minutes and 12 seconds**—a personal best!
+- Domain: [`othar.dk`](https://othar.dk)
+- GitHub: [@RasmusOtharKirketerp](https://github.com/RasmusOtharKirketerp)
+- Public demos, AI media experiments, and structured agent prompting
 
-## 📫 How to Reach Me
+## Unique Angle
 
-Feel free to connect with me here on GitHub or reach out via [Twitter](https://twitter.com/RasmusOthar). Let's collaborate and build something amazing together!
+Legacy enterprise background (COBOL/DB2 mindset) combined with modern Python/AI, IoT automation, GPU experimentation, and lightweight cloud infrastructure for real daily-use tools.
+
+## Personal
+
+Golden Retriever owner (Kenobi), long-term builder mindset, and interested in truth-focused AI prompting.
