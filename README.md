@@ -1,4 +1,4 @@
-# Rasmus Othar Kirketerp
+# Rasmus Othar Kirketerp (CodeWizard)
 
 Danish developer (born 1975) building practical, end-to-end systems with full-stack ownership.
 
