@@ -29,7 +29,8 @@ Danish developer (born 1975) building practical, end-to-end systems with full-st
 ## Major Projects
 
 1. AI NewsReader (`othar.dk`)
-   AI-powered RSS aggregation, translation, opinion-vs-fact separation, prioritization logic, optimized for speed and low cloud cost.
+   AI-powered RSS aggregation, translation, opinion-vs-fact separation, prioritization logic, optimized for speed and low cloud cost.  
+   Live app: [`newsreader.othar.dk`](https://newsreader.othar.dk/) (Google AI Studio app).
 2. Kenobi (Dog Walk Tracker)
    Home Assistant + MQTT + `input_datetime`, shareable web app (`othar.dk/kenobi`), intentionally minimal data model.
 3. iPad Kitchen Dashboard
